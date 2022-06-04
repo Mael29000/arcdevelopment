@@ -73,7 +73,7 @@ const links = [
     path: "/services",
     links: [
       { name: "Custom Software Development", path: "/customsoftware" },
-      { name: "Mobile App Development", path: "/mobileapps" },
+      { name: "iOS/Android App Development", path: "/mobileapps" },
       { name: "WebSite Development", path: "/websites" },
     ],
   },
